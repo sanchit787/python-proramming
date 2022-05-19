@@ -1,0 +1,28 @@
+‘Datatypes’ in python explain in a simple way.
+1] Datatypes are the classification or categorization of knowledge items.
+
+1] Since every value in python has a particular datatype. datatypes is nothing but a classes, and variables are object of these classes.
+
+3] There are six datatypes which are separated in two categories.
+
+1] mutable : which can change.
+2] immutable : which can never change.
+In immutable there are three types
+1] numeric
+e.g. : integer=10,float=10.0
+
+2] string : string is nothing but a sequence of characters.
+e.g. : “hello welcome to python”
+
+3] tuple : tuple contains homogeneous and heterogenous values, separated by “,” in parentheses(round bracket).
+e.g. : (1,2.15,”hello”)
+
+mutable
+1] list : list is datatype which contains homogeneous and heterogenous values, separated by “,” in square box.
+e.g. : [1,2.15,”hello”]
+
+2] dictionary : dictionary is datatype which contains key value pairs, separated by “,” in curly bracket.
+e.g. : {“name”:”sanchit”,”age”:24,”height”:5.9}
+
+3] Set : set is a datatype which contains unordered values in curly bracket.
+e.g. : {5,2,7,11,1,5.12,”ram”}
