@@ -1,0 +1,15 @@
+variable in python
+1]Variable is a name given to a memory location.
+
+2]It is a basic unit of storage in python.
+
+3]Variable is created at the movement we assign value to it. eg: name = 45.
+
+Rules of creating a variable
+1]Variable name can not start with the number.
+
+2]Variable name always starts with alphabets or underscore.
+
+3]variable name does not contain any special characters, it only contains alphanumeric values and underscore.
+
+4]variable name is case sensitive, it means NAME and name are two different variables.
